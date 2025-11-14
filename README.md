@@ -11,8 +11,7 @@
 <a href = "mailto:belisario.workspace@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiagoalvesbelisario" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
----
+##
 
 I'm 20 years old, from Minas Gerais, Brazil, and I'm passionate about programming and challenges! I'm an explorer when it comes to learning something new; the more I learn about the world of technology, the more opportunities I see to learn from it.
 
