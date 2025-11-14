@@ -36,7 +36,7 @@ I'm 20 years old, from Minas Gerais, Brazil, and I'm passionate about programmin
   <img align="center" alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
-
+---
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oBelisario&show_icons=true&theme=tokyonight&count_private=true"/>
