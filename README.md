@@ -1,5 +1,23 @@
-## Hi there 👋
+## Hello Devs!!
 
+I'm 20 years old, from Minas Gerais, Brazil, and I'm passionate about programming and challenges! I'm an explorer when it comes to learning something new; the more I learn about the world of technology, the more opportunities I see to learn from it.
+
+##🖥️ Tecnologias e Ferramentas:
+
+
+##Contact:
+
+<div>
+<!--
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+-->
+<a href="https://instagram.com/otiagobelisario" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+-->
+<a href = "mailto:contato@oBelisario"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiagoalvesbelisario" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <!--
 **oBelisario/oBelisario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +31,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Gráfico
 -->
 <div>
 <a href="https://github.com/oBelisario">
